@@ -4,7 +4,7 @@
 
 This library provides convenient access to the Meorphis Test 29 To1nbv REST API from server-side TypeScript or JavaScript.
 
-The REST API documentation can be found [on docs4.meorphis-test-29-to1nbv.com](https://docs4.meorphis-test-29-to1nbv.com). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found [on docs5.meorphis-test-29-to1nbv.com](https://docs5.meorphis-test-29-to1nbv.com). The full API of this library can be found in [api.md](api.md).
 
 ## Installation
 
